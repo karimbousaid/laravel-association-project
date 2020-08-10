@@ -1,0 +1,20 @@
+span {
+    color: red;
+    font-weight: bold;
+}
+button.btn {
+    background-color: #319046;
+    color:white;
+}
+button.btn:hover {
+    background-color: #319046;
+    color:white;
+}
+table th {
+    text-align: center;
+    position: absolute;
+    margin-right: 50px;
+}
+table td {
+    text-align: center;
+}
